@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>برنامج الاسطورة</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -81,6 +81,7 @@ export default function Home() {
 <p>أصبح هناك قسم كامل للإشعارات بعد أضافة ايقونة تحفظ فيها كل الاشعارات والتنبيهات .</p>
 <p>صغر الحجم من المميزات الجديدة فهو لا يتعدى حجم 3 ميجابايت لتسهيل عملية تنزيل على الهاتف.</p>
 </div>
+    <a href="https://downlody.com/ostora-tv/">برنامج الأسطورة</a>
       </main>
 
       <Footer />
